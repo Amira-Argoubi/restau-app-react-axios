@@ -1,0 +1,63 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Kaftéji",
+      "image": "https://www.femmetendance.com/wp-content/uploads/2019/11/kafteji-tunisien.jpg",
+      "description": "M7ar7ir",
+      "prix": 4500,
+      "quant": 2
+    },
+    {
+      "title": "Fricassé",
+      "image": "https://lepetitjournal.com/sites/default/files/styles/main_article/public/2018-07/FRICASSE.png",
+      "description": "ya3mil 66 kif",
+      "prix": 2000,
+      "id": 2
+    },
+    {
+      "title": "Lablebi",
+      "prix": 3000,
+      "description": "Mtanwich",
+      "image": "https://www.authentictasty.com/wp-content/uploads/2020/02/49913271_606113229828718_8460271702328217042_n-800x530.jpg",
+      "id": 3
+    },
+    {
+      "title": "Couscous",
+      "image": "https://www.196flavors.com/wp-content/uploads/2018/03/couscous-tunisien-1-FP.jpg",
+      "prix": 7800,
+      "description": "Dieri mta3 3oula",
+      "id": 4
+    },
+    {
+      "title": "Brik",
+      "image": "https://i.pinimg.com/originals/8b/1b/ec/8b1bec551e0360a8e704b8882a3f331e.jpg",
+      "description": "Mcha5ch5a",
+      "prix": 1500,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "title": "Tajine",
+      "image": "https://bazilic.files.wordpress.com/2018/12/tajine-bd.jpg",
+      "description": "Kolou jbounet",
+      "prix": 2000
+    }
+  ],
+  "commandes": [],
+  "users": [
+    {
+      "poste": "admin",
+      "userName": "Admin",
+      "userMail": "admin@",
+      "userPassword": "admin",
+      "id": 1
+    },
+    {
+      "userName": "amira",
+      "userMail": "amira@",
+      "userPassword": "amira",
+      "id": 2
+    }
+  ]
+}
